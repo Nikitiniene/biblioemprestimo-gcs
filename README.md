@@ -30,3 +30,7 @@ Este repositório foi criado para organizar os arquivos do projeto e aplicar os 
 ## Disciplina
 
 Engenharia de Software — Gerência de Configuração de Software.
+
+## Consulta ao catálogo
+
+O sistema permitirá consultar livros e verificar sua disponibilidade.
