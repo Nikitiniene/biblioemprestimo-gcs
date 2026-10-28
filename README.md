@@ -30,3 +30,7 @@ Este repositório foi criado para organizar os arquivos do projeto e aplicar os 
 ## Disciplina
 
 Engenharia de Software — Gerência de Configuração de Software.
+
+## Cadastro de livros
+
+O sistema permitirá cadastrar livros com título, autor e editora.
