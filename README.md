@@ -34,3 +34,7 @@ Engenharia de Software — Gerência de Configuração de Software.
 ## Consulta ao catálogo
 
 O sistema permitirá consultar livros e verificar sua disponibilidade.
+
+## Cadastro de livros
+
+O sistema permitirá cadastrar livros com título, autor e editora.
